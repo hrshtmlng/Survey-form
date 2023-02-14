@@ -57,6 +57,7 @@ export default function surveyForm() {
               className="input-radio"
               checked
             />Definitely</label>
+           <br></br>
           <label>
             <input
               name="user-recommend"
@@ -64,7 +65,7 @@ export default function surveyForm() {
               type="radio"
               className="input-radio"
             />Maybe</label>
-
+           <br></br>
           <label
             ><input
               name="user-recommend"
@@ -99,52 +100,62 @@ export default function surveyForm() {
               type="checkbox"
               className="input-checkbox"
             />Front-end Projects</label>
+           <br></br>
           <label>
             <input
               name="prefer"
               value="back-end-projects"
               type="checkbox"
               className="input-checkbox"/>Back-end Projects</label>
+             <br></br>
           <label><input
               name="prefer"
               value="data-visualization"
               type="checkbox"
               className="input-checkbox"/>Data Visualization</label>
+             <br></br>
           <label><input
               name="prefer"
               value="challenges"
               type="checkbox"
               className="input-checkbox"/>Challenges</label>
+               <br></br>
           <label><input
               name="prefer"
               value="open-source-community"
               type="checkbox"
               className="input-checkbox"/>Open Source Community</label>
+             <br></br>
           <label ><input
               name="prefer"
               value="gitter-help-rooms"
               type="checkbox"
               className="input-checkbox" />Gitter help rooms</label>
+               <br></br>
           <label><input
               name="prefer"
               value="videos"
               type="checkbox"
               className="input-checkbox" />Videos</label>
+             <br></br>
           <label><input
               name="prefer"
               value="city-meetups"
               type="checkbox"
               className="input-checkbox"/>City Meetups</label>
+             <br></br>
           <label><input
               name="prefer"
               value="wiki"
               type="checkbox"
               className="input-checkbox"/>Wiki</label>
+             <br></br>
           <label><input
               name="prefer"
               value="forum"
               type="checkbox"
               className="input-checkbox"/>Forum</label>
+             <br></br>
           <label><input
               name="prefer"
               value="additional-courses"
