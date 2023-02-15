@@ -1,0 +1,9 @@
+.navbar{
+    background-color: yellow;
+    height: 50px;
+    text-align: center;
+}
+a{
+    padding-left: 20px;
+    text-decoration: none;
+}

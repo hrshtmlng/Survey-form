@@ -5,7 +5,7 @@ export default function surveyForm() {
     <div className='container'>
         <header>  
             <h2>Survey Form</h2>
-            <p><strong>Thank you for taking the time to help us improve the platform</strong></p>
+            <p><strong>Thank you for taking the time to help us improve the Skillvalley</strong></p>
         </header>
         <hr/>
         <br/>
@@ -48,7 +48,7 @@ export default function surveyForm() {
         
 
         <div className="form-group">
-          <p>Would you recommend platform to a friend?</p>
+          <p>Would you recommend Skillvalley to a friend?</p>
           <label>
             <input
               name="user-recommend"
@@ -76,7 +76,7 @@ export default function surveyForm() {
         </div>
 
         <div className="form-group">
-          <p>What is your favorite feature of platform?</p>
+          <p>What is your favorite feature of Skillvalley?</p>
         </div>
           <select id="most-like" name="mostLike" className="form-control" required>
             <option disabled selected value>Select an option</option>
